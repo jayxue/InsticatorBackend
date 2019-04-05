@@ -178,4 +178,7 @@ We should consider the space cost and design an exit mechanism. For example, a c
 user uuid does not fetch any question in 72 hours, most probably the human user has left the site, thus there is no need to keep the uuid in the mapping. Meanwhile, the uuid should be kept in database since it reflects
 a fact that someone visited a site, read a question and made a response.
 
+Developer
+---------
+* Jay Xue <jay.yunjiao.xue@gmail.com>
   
